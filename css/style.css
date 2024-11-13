@@ -277,7 +277,7 @@ body {
     }
     
     .hero .hero-img-wrap img {
-      width: 100%;
+      width: 65%;
       max-width: 780px;
       height: auto;
       position: relative;
